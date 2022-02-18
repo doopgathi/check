@@ -1,4 +1,7 @@
  check for rebase1
 something
+<<<<<<< HEAD
 
  added another
+=======
+>>>>>>> parent of ecbd280...  all solved
